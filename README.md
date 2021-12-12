@@ -1,6 +1,6 @@
-- 👋 Hi, I’m MingjunMa
-- 👀 I’m interested in network and software engineering
-- 🌱 I’m currently learning algorithm
+- 👋 Hi, I’m Mingjun
+- 👀 I’m interested in cloud computing and software development
+- 🌱 I’m learning algorithm now
 
 <!---
 MingjunMa/MingjunMa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
